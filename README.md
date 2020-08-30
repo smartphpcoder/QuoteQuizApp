@@ -1,1 +1,5 @@
-<p align="center">Quote Quiz App Task Build on React And Laravel</p>
+<p align="center"><img src="app.png" width="400"></p>
+
+<p align="center">
+    Quote Quiz App Task - Built using React and Laravel
+</p>
